@@ -1,2 +1,1 @@
-# Example code from YT video: 
-https://youtu.be/aW6XWn6wPb4
+# Example code from YT video: https://youtu.be/aW6XWn6wPb4
